@@ -1,0 +1,180 @@
+.grid_2 {
+    height: 920px;
+    width: 1920px;
+    background-color: #e5ecf7;
+    display: inline-flex;
+    flex-direction: column;
+    direction: rtl;
+}
+.accountTypesTitleDiv {
+    height: 76px;
+    width: 654px;
+    color: #414f62;
+    font-family: Rubik;
+    font-size: 46px;
+    font-weight: bold;
+    letter-spacing: -0.13px;
+    line-height: 58px;
+    text-align: center;
+    margin: auto;
+    margin-top: 108px;
+    margin-bottom: 0;
+}
+.accountTypesTitle {
+    margin: 0;
+}
+.accountsCards {
+    display: inline-flex;
+    margin: auto;
+    margin-top: 102px;
+    width: 1450px;
+}
+.accountTypeCard {
+    height: 444.69px;
+    width: 360px;
+    border-radius: 21.87px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 42px 0 rgba(38, 41, 50, 0.1);
+    margin: auto;
+}
+.youngAccountImgDiv {
+    margin: auto;
+    margin-top: -83px;
+    width: fit-content;
+}
+.familyAccountImgDiv {
+    margin: auto;
+    margin-top: -61px;
+    margin-right: 51px;
+    width: fit-content;
+}
+.businessAccountImgDiv {
+    margin: auto;
+    margin-top: -80px;
+    width: fit-content;
+}
+.youngAccountImg {
+    height: 247px;
+    width: 235px;
+}
+.familyAccountImg {
+    height: 183.57px;
+    width: 272.23px;
+}
+
+.businessAccountImg {
+    height: 243px;
+    width: 204px;
+}
+.youngAccountTitleDiv {
+    height: 105.3px;
+    width: 234.9px;
+    color: #414f62;
+    font-family: Rubik;
+    font-size: 45.36px;
+    font-weight: bold;
+    letter-spacing: -0.08px;
+    line-height: 41px;
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 35px;
+}
+.familyAccountTitleDiv {
+    height: 93.15px;
+    width: 234.9px;
+    color: #414f62;
+    font-family: Rubik;
+    font-size: 45.36px;
+    font-weight: bold;
+    letter-spacing: -0.08px;
+    line-height: 41px;
+    text-align: right;
+    margin-top: 55px;
+    margin-right: 35px;
+}
+.businessAccountTitleDiv {
+    height: 107.73px;
+    width: 234.9px;
+    color: #414f62;
+    font-family: Rubik;
+    font-size: 45.36px;
+    font-weight: bold;
+    letter-spacing: -0.08px;
+    line-height: 41px;
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 35px;
+}
+.cardAccountLightText {
+    font-family: Rubik;
+    font-weight: 300;
+    font-size: 30px;
+    margin: 0;
+}
+.cardAccountLargeText {
+    margin: 0;
+}
+.cardAccountBtn {
+    height: 39.69px;
+    width: 144.99px;
+    border-radius: 36.85px;
+    border: rgba(255, 255, 255, 0);
+    background-color: #41d372;
+    color: white;
+    font-family: Rubik;
+    font-weight: 600;
+}
+.youngCardAccountBtnDiv {
+    margin: auto;
+    width: fit-content;
+    margin-top: -2px;
+}
+.familyCardAccountBtnDiv {
+    margin: auto;
+    width: fit-content;
+    margin-top: -2px;
+}
+.businessCardAccountBtnDiv {
+    margin: auto;
+    width: fit-content;
+    margin-top: 37px;
+}
+.youngAccountInfoDiv{
+    height: 137.7px;
+    width: 234.9px;
+    color: #414F62;
+    font-family: Rubik;
+    font-size: 16.2px;
+    letter-spacing: -0.05px;
+    line-height: 32.4px;
+    text-align: right;
+    margin-right: 59px;
+}
+.familyAccountInfoDiv{
+    height: 137.7px;
+    width: 234.9px;
+    color: #414F62;
+    font-family: Rubik;
+    font-size: 16.2px;
+    letter-spacing: -0.05px;
+    line-height: 32.4px;
+    text-align: right;
+    margin-right: 59px;
+    margin-top: 15px;
+
+}
+.businessAccountInfoDiv{
+    height: 98.82px;
+    width: 234.9px;
+    color: #414F62;
+    font-family: Rubik;
+    font-size: 16.2px;
+    letter-spacing: -0.05px;
+    line-height: 32.4px;
+    text-align: right;
+    margin-right: 59px;
+
+}
+.accountInfoText{
+    margin: 0;
+}

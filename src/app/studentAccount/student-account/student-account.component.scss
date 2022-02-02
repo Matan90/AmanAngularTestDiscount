@@ -1,0 +1,61 @@
+.grid_3 {
+    width: 1920px;
+    height: 910px;
+    background-color: white;
+    display: inline-flex;
+    direction: rtl;
+}
+.studentAccountImg {
+    height: 762px;
+    width: 1291px;
+}
+.studentAccountImgDiv {
+    margin-top: 50px;
+    margin-right: 40px;
+}
+.studentAccountTextDiv {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    margin-right: 117px;
+}
+.studentAccountTextTitle {
+    height: 190px;
+    width: 456px;
+    color: #41d372;
+    font-family: Rubik;
+    font-size: 56px;
+    font-weight: bold;
+    letter-spacing: -0.16px;
+    line-height: 58px;
+    text-align: right;
+}
+.studentAccountText {
+    height: 200px;
+    width: 456px;
+    color: #414f62;
+    font-family: Rubik;
+    font-size: 28px;
+    letter-spacing: -0.08px;
+    line-height: 40px;
+    text-align: right;
+}
+.studentAccountTextBtnDiv {
+}
+.studentAccountTextBtn {
+    box-sizing: border-box;
+    height: 77px;
+    width: 339px;
+    border: 0.8px solid #979797;
+    border-radius: 38.5px;
+    background-color: #4d65d1;
+
+   
+    color: #ffffff;
+    font-family: Rubik;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: -0.07px;
+    line-height: 40px;
+    text-align: center;
+}

@@ -1,0 +1,284 @@
+.myNavbar {
+    direction: rtl;
+    display: inline-flex;
+    width: 100%;
+
+}
+
+.logoDiv {
+    height: 40px;
+    width: 112px;
+    display: inline-block;
+    margin-top: 43px;
+    margin-right: 41px;
+}
+
+.burgerIconDiv {
+    margin-top: 46px;
+    margin-right: 46px;
+    height: 19px;
+    width: 28px;
+    display: inline-block;
+    margin-bottom: 0.8%;
+}
+.burgerIconLine {
+    box-sizing: border-box;
+    height: 1px;
+    width: 25px;
+    border: 1px solid #535352;
+    margin-bottom: 7px;
+}
+
+// Navbar Links
+
+li {
+    float: right;
+}
+
+.navLink {
+    display: block;
+    text-align: center;
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    // background-color: #ddd;
+}
+
+li a.active {
+    color: #4d65d1;
+}
+
+.navbarList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    // border: 1px solid #e7e7e7;
+    // background-color: #f3f3f3;
+}
+
+.navbarTabs {
+    display: inline-block;
+    margin-right: 158px;
+    margin-top: 39px;
+}
+.personalBtn {
+    height: 31px;
+    width: 76px;
+    color: #4d65d1;
+    font-family: "Rubik", sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: -0.2px;
+    line-height: 31px;
+    text-align: right;
+    margin: 0;
+}
+.businessBtn {
+    height: 31px;
+    width: 78px;
+    color: #414f62;
+    font-family: "Rubik", sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    line-height: 31px;
+    text-align: right;
+    margin: 0;
+}
+.personalBankingBtn {
+    height: 31px;
+    width: 159px;
+    color: #414f62;
+    font-family: Rubik;
+    font-size: 26px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    line-height: 31px;
+    text-align: right;
+    margin: 0;
+}
+
+// Account Buttons
+
+.createAccountBtn {
+    box-sizing: border-box;
+    height: 49px;
+    width: 179px;
+    border: 2px solid #4d65d1;
+    border-radius: 45.5px;
+
+    // height: 23px;
+    // width: 141px;
+    color: #4d65d1;
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: -0.09px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 30px;
+}
+.loginAccountBtn {
+    height: 49px;
+    width: 201.6px;
+    border-radius: 50.96px;
+    border:rgba(255, 255, 255, 0);
+    background-color: #4d65d1;
+
+    color: #ffffff;
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: -0.09px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.createAccountDiv {
+    height: 49px;
+    width: 179px;
+    display: inline-block;
+    margin-right: 556px;
+}
+.loginAccountDiv {
+    height: 49px;
+    width: 202px;
+    display: inline-block;
+    margin-right: 26px;
+}
+
+.footer {
+    height: 702px;
+    width: 1926px;
+    background-color: #414f62;
+    direction: rtl;
+}
+.footerContentDiv{
+    display: inline-flex;
+}
+.discountIconDiv{
+    height: 40px;
+    width: 112px;
+    margin: auto;
+    margin-top: -25px;
+}
+.discountIcon{
+    height: 40px;
+    width: 112px;
+}
+.socialIconsDiv{
+    display: inline-flex;
+    margin-right: 853px;
+    margin-top: 50px;
+}
+.iconDiv{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+}
+.yIconDiv{
+    height: 56px;
+    width: 56px;
+    margin-top: -8px;
+    margin-left: 5px;
+
+}
+.fIconDiv{
+    height: 56px;
+    width: 56px;
+    margin-top: -8px;
+}
+.iIconDiv{
+    margin-left: 13px;
+}
+.yIcon{
+    height: 56px;
+    width: 56px;
+}
+
+.fIcon{
+    height: 56px;
+    width: 56px;
+}
+.footerTextBoxTitle {
+    color: #45df86;
+    font-size: 17px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+}
+.textBoxContent {
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    width: 225px;
+}
+
+.accountsTypesContent {
+    height: 415px;
+    width: 225px;
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: 20px;
+    text-align: right;
+    direction: rtl;
+    margin-top: 79px;
+    margin-right: 271px;
+}
+.creditContent {
+    height: 415px;
+    width: 225px;
+    color: #ffffff;
+    font-family: Rubik;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: 20px;
+    text-align: right;
+    direction: rtl;
+    margin-top: 79px;
+    margin-right: 65px;
+}
+.savingsContent{
+    height: 415px;
+    width: 225px;
+    color: #FFFFFF;
+    font-family: Rubik;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: 20px;
+    text-align: right;
+    margin-top: 79px;
+    margin-right: 65px;
+}
+.creditCardContent{
+    height: 272px;
+    width: 225px;
+    color: #FFFFFF;
+    font-family: Rubik;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: 20px;
+    text-align: right;
+    margin-top: 79px;
+    margin-right: 65px;
+}
+.familyContent{
+    height: 235px;
+    width: 225px;
+    color: #FFFFFF;
+    font-family: Rubik;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: 20px;
+    text-align: right;
+    margin-top: 79px;
+    margin-right: 65px;
+}
